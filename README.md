@@ -1,4 +1,4 @@
-# Human_Resource_Analytics_p4
+# Human_Resource_Analyst_p4
 <p align="center">
   <img width="900" height="170" src="https://imgs.search.brave.com/X-w6JWbHiciunmHLl7zIzb0EXU3kvAUqKD_LrsQWswU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzU0LzEzLzI5/LzM2MF9GXzExNTQx/MzI5MjlfOE9xTlUy/Z3F0dzN3N3BQeVJZ/NmtHcVRjRzZvWlNK/NFkuanBn">
 </p>
